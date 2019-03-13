@@ -1,5 +1,5 @@
 # AStar search algorithm
-- Implement AStar search algorithm from scratch.<br><br>
+- Implemented AStar search algorithm from scratch.<br><br>
 
 
 More information about A* search algorithm<br>
